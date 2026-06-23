@@ -1,4 +1,4 @@
-# BlackCrack <img src="https://gifdb.com/images/high/toji-fushiguro-confused-scratching-head-vdihnwh6fp5sv13r.webp" alt="" width="60" />
+# BlackCrackSSH <img src="https://gifdb.com/images/high/toji-fushiguro-confused-scratching-head-vdihnwh6fp5sv13r.webp" alt="" width="60" />
 Brute force ssh | python script
 
 It is an SSH cracking tool, but it is not very advanced and professional, but it is ready and useful. It has a simple user interface and an attempt has been made to write the script in a light way so that the user does not encounter any problems.
